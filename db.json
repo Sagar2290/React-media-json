@@ -3,18 +3,9 @@
     {
       "id": 1,
       "name": "Myra"
-    },
-    {
-      "name": "Carolyn Thiel",
-      "id": 2
     }
   ],
   "albums": [
-    {
-      "userId": 1,
-      "title": "Small Concrete Towels",
-      "id": 1
-    },
     {
       "userId": 1,
       "title": "Handmade Concrete Computer",
@@ -26,26 +17,15 @@
       "id": 4
     },
     {
-      "userId": 2,
-      "title": "Small Cotton Mouse",
-      "id": 6
-    },
-    {
       "userId": 1,
       "title": "Handcrafted Plastic Tuna",
       "id": 7
-    }
-  ],
-  "photos": [
-    {
-      "albumId": 1,
-      "url": "https://loremflickr.com/150/150/abstract?lock=26367",
-      "id": 1
     },
     {
-      "albumId": 1,
-      "url": "https://loremflickr.com/150/150/abstract?lock=43390",
-      "id": 2
+      "userId": 1,
+      "title": "Ergonomic Cotton Fish",
+      "id": 8
     }
-  ]
+  ],
+  "photos": []
 }
