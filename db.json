@@ -1,31 +1,56 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Myra"
+      "name": "Miss Ivan Morar III",
+      "id": 1
+    },
+    {
+      "name": "Dewey Huel",
+      "id": 2
     }
   ],
   "albums": [
     {
       "userId": 1,
-      "title": "Handmade Concrete Computer",
+      "title": "Handmade Frozen Ball",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Practical Concrete Car",
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "title": "Oriental Metal Mouse",
       "id": 3
     },
     {
-      "userId": 1,
-      "title": "Licensed Concrete Ball",
+      "userId": 2,
+      "title": "Modern Concrete Pizza",
       "id": 4
-    },
-    {
-      "userId": 1,
-      "title": "Handcrafted Plastic Tuna",
-      "id": 7
-    },
-    {
-      "userId": 1,
-      "title": "Ergonomic Cotton Fish",
-      "id": 8
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1989",
+      "id": 1
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=86133",
+      "id": 2
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=43978",
+      "id": 3
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=87374",
+      "id": 4
+    }
+  ]
 }
